@@ -1,0 +1,35 @@
+			.menu{
+				height: 500px;
+				background: url(../image/bj.png) no-repeat ;
+			}
+			.lianxi{
+				height: 65px;
+				background: url(../image/header.png) no-repeat 10px 0px;
+			}
+			ul{
+				list-style-type: none;
+				padding-left: 25px;
+			}
+			#lv{
+				height:36px; 
+				background: url(../image/lvbiaoti.png) no-repeat   ;
+				padding-top: 5px;
+				padding-left: 50px;
+			}
+			li{
+				height: 36px;
+				background: url(../image/baibiaoti.png) no-repeat  ;
+				padding-top: 5px;
+				padding-left: 50px;
+				margin-top: 5px;
+			}
+			a{
+				width: 170px;
+				height:36px; 
+				text-decoration: none;
+				font-family: "楷体" ;
+				color: gray;
+			}
+			a:hover{
+				color: white;
+			}

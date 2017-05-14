@@ -1,0 +1,23 @@
+		#titlediv{background: url(../image/left_nav_title.gif ) no-repeat ; width: 150px; height:37px;color: white;
+			padding-top:  10px; padding-left:  60px; }
+		ul{
+			list-style: url(../image/left_cur.gif)  inside;
+			background: url(../image/left_nav_txt.gif) repeat-y;
+			margin-top:  0px; 
+			margin-bottom: 0px;
+		}
+		.checked{
+			height: 30px;
+			background-image: url(../image/left_nav_item.gif);
+			background-repeat: no-repeat; 
+			background-position:-3em 90%;
+			margin-left: 40px
+			padding-top: 5px;
+		}
+		.checked :link{text-decoration: none; font-family: "微软雅黑"; color: black;}
+		.checked :hover{font-family: "宋体"; color: red; font-size: 18px; }
+		#footerdiv{
+			background: url(../image/left_nav_bottom.gif) no-repeat ;
+			margin-top: 0px;
+			height: 40px;
+		}

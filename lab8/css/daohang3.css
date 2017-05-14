@@ -1,0 +1,22 @@
+.menu{
+	align-content: center;
+	background: url(../image/bg.gif) ;
+	height:50px;
+	}
+ul{		
+	list-style-type: none;
+	}
+a{
+	text-decoration: none;
+	font-family: "宋体";
+	color:white ;
+	}		
+li{		
+	float: left;
+	padding: 1em 2em;
+	color:#b9f605;
+	}				
+.specil{
+	font-family: "宋体";
+	color: #fdb306;
+	}

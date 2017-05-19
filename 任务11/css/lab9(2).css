@@ -1,0 +1,61 @@
+#graph{
+	width: 600px;
+	height: 600px;
+	border: 2px solid #000;
+	padding: 5px;
+	background-color: #f9c; 
+}
+#line1{
+	background-color: #00c;
+	height: 30%;
+	border: 1px solid #029;
+}
+#line2{
+	background-color: #306;
+	height: 50%;
+	border: 1px solid #f50;
+}
+#line3{
+	height: 16%;
+	border: 1px solid #f00;
+	background-color: #fc0;
+}
+#l1{
+	float: left;
+	margin-left: 10px;
+	background-color: #9f6; 
+	width: 25%;
+	height:40%; 
+	border: 1px solid #f00;
+	}
+#l2{
+	float: left;
+	background-color: #F0E68C;
+	width: 70%;
+	height: 40%;
+	border: 1px solid #f00;
+}
+#l3{
+	margin-top: 70px;
+	margin-left: 10px;
+	background-color: #3f0;
+	width: 95%;
+	height: 60%;
+	border: 1px solid #f00;
+}
+#row1{
+	float: left;
+	margin:5px 0px 5px 5px;
+	width: 48%;
+	height: 95%;
+	background-color:  #0c0;
+	border: 1px solid #f00;
+}
+#row2{
+	float: left;
+	margin: 5px 0px ;
+	width: 48%;
+	height: 95%;
+	background-color: #ff0;
+	border: 1px solid #f00;
+}

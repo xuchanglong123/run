@@ -1,0 +1,33 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.left{
+	float: left;
+	height: 200px;
+	border: 1px solid #F0F;
+	margin: 5px;
+	background-color: gray;
+}
+.content1{
+	float: left;
+	border: 1px solid #f23;
+	margin: 10px;
+	width: 176px;
+	height: 80px;
+	background-color: purple;
+}
+.content2{
+	margin-top:5px;
+	margin-left: 10px;
+	width: 178px;
+	height: 58px;
+	border: 1px solid #5f5;
+	background-color: purple;
+}
+.left1{
+	width: 400px;
+}
+.right{
+	width: 200px;
+}

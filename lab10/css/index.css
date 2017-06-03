@@ -1,5 +1,6 @@
 	*{
-		margin: 0 auto;padding: 0;color: #522a06;font: '宋体' 12px;
+		margin: 0 auto;padding: 0;color: #522a06;
+		font-size: 12px;font-family: '宋体';
 	}
 	a:link{text-decoration: none;color: #522a06;
 	}
@@ -267,6 +268,8 @@
 	#hr{
 		height: 1px;
 		background-image: url(../images/line.jpg);
+		background-repeat: no-repeat;
+		background-position: center;
 	}
 	#foot_content2{
 		text-align: center;

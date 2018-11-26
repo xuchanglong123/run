@@ -1,0 +1,133 @@
+		*{
+		margin: 0 auto;padding: 0;color: black;
+		font-family: '宋体';
+		list-style-type: none;
+		}
+		a:link{text-decoration: none;color: black;
+		}
+		a:hover{text-decoration: underline;
+			color:red;
+		}
+		#wrap{
+		margin: 0 auto;
+		background-image: url(../images/bg.jpg);
+		}
+		#head{
+			width:1503px;
+			height: 286px;
+
+			background-image: url(../images/banner2.png);
+			background-position: center top;
+			background-repeat: no-repeat;
+		}
+		#banner{
+			height: 176px;
+			padding-left: 80px;
+			padding-top: 70px;
+		}
+		#nav{
+			height: 40px;
+			background-image: url(../images/daohang1.png);
+			background-repeat: no-repeat;
+		}
+		#nav_body{
+			width: 1000px;
+			height: 40px;
+			background-position: center center;
+			font-size:20px;
+		}
+		#nav_content ul li a{
+			line-height: 20px;
+			float: left;
+			padding-top: 10px;
+			font-family: '宋体';
+			color: white;
+			font-size:20px;
+			padding-left: 40px;
+		}
+		#nav_search{
+			width: 200px;
+			margin-right: 50px;
+			padding-top: 5px;	
+		}
+		#content{
+			width: 1000px;
+		}
+		#content1{
+			line-height: 30px;
+			padding-left: 60px;
+		}
+		#left{
+			width: 240px;
+			float: left;
+		}
+		.top{
+			background-image: url(../images/daohang.png);
+			background-repeat: no-repeat;
+			background-position: center;
+			height: 23px;
+			text-align:center;
+			padding-top: 5px;
+		}
+		.top:hover{
+			background-image: url(../images/hover.png);
+		}
+		#left_bot{
+			line-height: 25px;
+			text-indent: 2em;
+			width: 200px;
+			border: 1px solid gray;
+			background-color: #c0c0c0;
+			margin-bottom: 50px;
+			margin-top: 30px;
+		}
+		#right{
+			float: left;
+			width: 700px;
+		}
+		#right ul li{
+			list-style-type: disc;
+			line-height: 30px;
+			margin-left: 20px;
+		}
+		.time{
+			float: right;
+			padding-right: 10px;
+		}
+		#num{
+    	margin-left: 150px;
+    	margin-top: 50px;
+    	}
+		.num a{
+	    	border: 1px solid  blue;
+	    	float: left;
+	    	padding: 5px 10px;
+	    	line-height: 10px;
+	    	margin-left: 10px;
+    	}
+
+    	.num1 a{
+	    	float: left;
+	    	padding: 5px;
+	    	line-height: 10px;
+	    	margin-left: 5px
+    	}
+		#foot{
+			clear: both;
+			position:relative;
+			left: 0px;
+			bottom: 0px;
+		}
+		#foot_bg{
+			height: 150px;
+			background-image: url(../images/11.jpg);
+			background-repeat: no-repeat;
+			background-position: center ;
+			text-align: center;
+		}
+		#foot_link{
+			padding: 15px 0px;
+		}
+		.foot_text{
+			font-size: 10px;
+		}

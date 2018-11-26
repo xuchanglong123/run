@@ -1,0 +1,23 @@
+body{
+	font-size: 12px;
+	color: gray;
+	font-family: 'Arial'
+	line-height:2em;
+	}
+a:link{text-decoration: none;color: #727272;}
+a:hover{text-decoration: underline;}
+#shouye{
+	font-size: 14px;
+	color: #b9f605;
+	font-weight: bolder;
+	}
+.qita{
+	color: white;
+	}
+#chaxunxitong{
+	color: #fdb306;
+	}
+#shouye:hover{text-decoration:none;color: #b9f605;}
+.qita:hover{text-decoration:none;color: #b9f605;}
+#chaxunxitong:hover{text-decoration:none;color: #b9f605;}
+
